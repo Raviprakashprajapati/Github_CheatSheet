@@ -2,7 +2,7 @@
 
 To view all commit : git log --all --oneline --decorate --graph
 
-
+TO fetch all pulls and pushes : git fetch
 TO pull from other Branch : git pull origin branchName
 
 git reset --hard origin/target-branch
