@@ -17,4 +17,11 @@ To delete a branch : git branch -d development/test
 
 To checkout and create a branch : git checkout branchname
 
+
+
+
 git stash
+
+git stash list
+
+git stash apply stash@{0}
