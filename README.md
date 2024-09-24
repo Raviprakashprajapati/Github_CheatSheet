@@ -25,3 +25,10 @@ git stash
 git stash list
 
 git stash apply stash@{0}
+
+
+
+
+
+yarn outdated
+yarn upgrade
